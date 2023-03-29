@@ -1,6 +1,6 @@
 {
   "name": "@mbijok/webflow-dev-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Development environment for the projects in webflow.",
   "homepage": "https://github.com/mbijok/webflow-dev-env#readme",
   "license": "ISC",
